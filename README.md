@@ -1,6 +1,12 @@
 ## Empirical Methods and Statistics
 
-//TODO:
+### Combinatorics and Probability
+
+// TODO:
+
+### Probability Distributions
+
+// TODO:
 
 ### Statistical Computing and Graphics with R
 

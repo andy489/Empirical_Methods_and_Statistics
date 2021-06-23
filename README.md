@@ -22,13 +22,10 @@ N|дата|pdf
 SUMMARY|2020-2021|[СЕМ Л01-15 СИ](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B%20%D0%A1%D0%98%202020-2021.pdf)
 Задачи за самостоятелна работа|2020-2021|[СЕМ HW](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/SEM%20HW%2062369.pdf)
 
-### Combinatorics and Probability
-
-// TODO:
-
-### Probability Distributions
-
-// TODO:
+### Упражнения
+N|дата|pdf
+:-:|:-:|:-:
+-|-|[Exam Preparation](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation.pdf)
 
 ### Statistical Computing and Graphics with R
 "This is R. There is no if. Only how." - Simon Blomberg

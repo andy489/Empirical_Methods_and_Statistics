@@ -25,6 +25,7 @@ SUMMARY|2020-2021|[СЕМ Л01-15 СИ](https://github.com/andy489/Empirical_Met
 ### Упражнения
 N|дата|pdf
 :-:|:-:|:-:
+01|5 октомври - 11 октомври|[01. Комбинаторика](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2001/01.%20%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0.pdf)
 -|-|[Exam Preparation Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Example%20Problems%20for%20Exam.pdf)<br>[Exam Preparation Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation.pdf)
 
 ### Statistical Computing and Graphics with R

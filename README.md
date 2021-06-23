@@ -25,7 +25,7 @@ SUMMARY|2020-2021|[СЕМ Л01-15 СИ](https://github.com/andy489/Empirical_Met
 ### Упражнения
 N|дата|pdf
 :-:|:-:|:-:
--|-|[Exam Preparation](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation.pdf)
+-|-|[Exam Preparation Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Example%20Problems%20for%20Exam.pdf)<br>[Exam Preparation Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation.pdf)
 
 ### Statistical Computing and Graphics with R
 "This is R. There is no if. Only how." - Simon Blomberg

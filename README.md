@@ -51,7 +51,7 @@ N|дата|pdf
 08|23 ноември - 29 ноември|[8.1. Limit Theorems. Convergence. Tests for normal distribution.](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2008/R/R08.%20Limit%20Theorems.pdf)
 
 ### Домашни работи
-година|група|pdf
+групи|pdf
 :-:|:-
 1-3|[SEM HW groups 1-3 SE – Задачи](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20HW/SEM%20HW%20groups%201-3%20SE.pdf)<br>[SEM HW groups 1-3 SE – Решения](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20HW/SEM%20HW%2062369.pdf)
 4-5|[SEM HW groups 4-5 SE – Задачи](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20HW/SEM%20HW%20groups%204-5%20SE.pdf)

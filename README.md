@@ -52,6 +52,7 @@ N|дата|pdf
 07|16 ноември - 22 ноември|-
 08|23 ноември - 29 ноември|[8.1. Limit Theorems. Convergence. Tests for normal distribution.](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2008/R/R08.%20Limit%20Theorems.pdf)
 09|30 ноември - 6 декември|[9.1. Confidence Interval Estimation](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2009/R/R09.%20Confidence%20Interval%20Estimation.pdf)<br>[9.2. Verzani Problem Set (9)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2009/R/R09.%20Verzani%20Problem%20Set%20(9).pdf)<br>[9.3. Moodle – Доверителни интервали – Задачи](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2009/R/R09.%20Confidence%20Interval%20Estimation%20Moodle%20Tasks.pdf)<br>[9.3. Moodle – Доверителни интервали – Решения](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2009/R/R09.%20Confidence%20Interval%20Estimation%20Moodle%20Taks%20%E2%80%93%20Solutions.pdf)
+10|7 декември - 13 декември|[10.1. Hypothesis Testing](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2010/R/R10.%20Hypothesis%20Testing.pdf)<br>[10.2. Verzani Problem Set (10).pdf](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2010/R/R10.%20Verzani%20Problem%20Set%20(10).pdf)
 
 ### Домашни работи
 групи|pdf

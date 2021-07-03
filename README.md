@@ -66,8 +66,9 @@ N|дата|pdf
 
 дата|pdf
 :-:|:-
--|[Exam Preparation – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation%20%E2%80%93%20Problems.pdf)<br>[Exam Preparation – Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation%20%E2%80%93%20Solutions.pdf)
-2021-02-03|[Изпит по СЕМ – Задачи](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20ProbStat%202021-02-03%20Problems.pdf)<br>[Изпит по СЕМ - Решения](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20ProbStat%202021-02-03%20Solutions.pdf)
+-|[Exam Preparation – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20Preparation%20%E2%80%93%20Problems.pdf)<br>[Exam Preparation – Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20Preparation%20%E2%80%93%20Solutions.pdf)
+2021-01-27|[Изпит по СЕМ – Задачи и Решения](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20SEM%20solutions%202021-01-27.pdf)
+2021-02-03|[Изпит по СЕМ – Задачи](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20ProbStat%202021-02-03%20Problems.pdf)<br>[Изпит по СЕМ - Решения](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20ProbStat%202021-02-03%20Solutions.pdf)
 
 
 ### Домашни работи

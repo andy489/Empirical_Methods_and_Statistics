@@ -40,8 +40,6 @@ N|дата|pdf
 13|4 януари - 10 януари|[13.1. Непрекъснати случайни величини, част 4](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2013/13.%20%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D0%BA%D1%8A%D1%81%D0%BD%D0%B0%D1%82%D0%B8%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B8%CC%86%D0%BD%D0%B8%20%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D0%B8%204.pdf)<br>[13.2. Непрекъснати случайни величини упр. 12-14, FMI – PTMS 12-14](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2013/FMI%20PTMS%2012%2C13%2C14.pdf)
 14|11 януари - 17 януари|[14.1. Непрекъснати случайни величини +](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2014/14.%20%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D0%BA%D1%8A%D1%81%D0%BD%D0%B0%D1%82%D0%B8%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B8%CC%86%D0%BD%D0%B8%20%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D0%B8%205.pdf)<br>[14.2. FMI PTMS 12-14 – Задачи](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2014/FMI%20PTMS%2012%2C13%2C14.pdf)<br>[14.3. FMI PTMS 12-14 – Решения](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2014/FMI%20PTMS%2012%2C13%2C14%20Solutions.pdf)
 15|18 януари - 24 януари|-
--|-|[Exam Preparation Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Example%20Problems%20for%20Exam.pdf)<br>[Exam Preparation Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation.pdf)
-
 
 ### Statistical Computing and Graphics with R
 "This is R. There is no if. Only how." - Simon Blomberg
@@ -63,6 +61,13 @@ N|дата|pdf
 13|4 януари - 10 януари|[13.1. Regression Analysis](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2013/R/R13.%20Regression%20Analysis.pdf)<br>[13.2. Verzani Problem Set (13)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2013/R/R13.%20Verzani%20Problem%20Set%20(13).pdf)
 14|11 януари - 17 януари|[14.1. Multiple Linear Regression](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2014/R/R14.%20Multiple%20Linear%20Regression.pdf)<br>[14.2. Verzani Problem Set (14)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2014/R/R14.%20Verzani%20Problem%20Set%20(14).pdf)
 15|18 януари - 24 януари|[15.1. Analysis of Variance (ANOVA)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2015/R/R15.%20Analysis%20of%20Variance%20(ANOVA).pdf)<br>[15.2. Verzani Problem Set (15)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2015/R/R15.%20Verzani%20Problem%20Set%20(15).pdf)
+
+### Изпити и подготовка за изпити и консултации
+
+дата|pdf
+-|[Exam Preparation – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation%20%E2%80%93%20Problems.pdf)<br>[Exam Preparation – Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation%20%E2%80%93%20Solutions.pdf)
+2021-02-03|[Изпит по СЕМ – Задачи](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20ProbStat%202021-02-03%20Problems.pdf)<br>[Изпит по СЕМ - Решения](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20ProbStat%202021-02-03%20Solutions.pdf)
+
 
 ### Домашни работи
 групи|pdf

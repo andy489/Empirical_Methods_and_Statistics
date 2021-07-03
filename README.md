@@ -62,9 +62,10 @@ N|дата|pdf
 14|11 януари - 17 януари|[14.1. Multiple Linear Regression](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2014/R/R14.%20Multiple%20Linear%20Regression.pdf)<br>[14.2. Verzani Problem Set (14)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2014/R/R14.%20Verzani%20Problem%20Set%20(14).pdf)
 15|18 януари - 24 януари|[15.1. Analysis of Variance (ANOVA)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2015/R/R15.%20Analysis%20of%20Variance%20(ANOVA).pdf)<br>[15.2. Verzani Problem Set (15)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/week%2015/R/R15.%20Verzani%20Problem%20Set%20(15).pdf)
 
-### Изпити и подготовка за изпити и консултации
+### Изпити и подготовка за изпити
 
 дата|pdf
+:-:|:-
 -|[Exam Preparation – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation%20%E2%80%93%20Problems.pdf)<br>[Exam Preparation – Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20Preparation%20%E2%80%93%20Solutions.pdf)
 2021-02-03|[Изпит по СЕМ – Задачи](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20ProbStat%202021-02-03%20Problems.pdf)<br>[Изпит по СЕМ - Решения](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Exercises/Exam%20ProbStat%202021-02-03%20Solutions.pdf)
 

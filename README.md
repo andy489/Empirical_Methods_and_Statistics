@@ -82,7 +82,7 @@ N|дата|pdf
 
 ### Допълнителни
 N|Задача
-:-:
+:-:|:-
 01|[Crux Mathematicorum VOLUME 42, No. 6, June 2017, page 11 (Geometric Probability)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Crux%20Mathematicorum%20VOLUME%2042%2C%20No.%206%2C%20June%202017%2C%20page%2011%20(Geometric%20Probability).pdf)
 02|[Crux Mathematicorum VOLUME 47, No. 1, January 2021, pages 13-18 (Games, Geometric Probability)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Crux%20Mathematicorum%20VOLUME%2047%2C%20No.%201%2C%20January%202021%2C%20pages%2013-18%20(Games%2C%20Geometric%20Probability).pdf)
 03|[Number of sixes probability (Chebyshev & CLT)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Number%20of%20sixes%20probability%20(Chebyshev%20%26%20CLT).pdf)

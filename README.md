@@ -47,7 +47,7 @@ N|дата|pdf
 ### Statistical Computing and Graphics with R
 "This is R. There is no if. Only how." - Simon Blomberg
 
-**Monika Peteva Petkova's notes on R programming language**
+**Monika Peteva Petkova's notes on R programming language.**
 
 N|дата|pdf
 :-:|:-:|:-

@@ -1,7 +1,7 @@
 ## Empirical Methods and Statistics
 
-<p align="left">
-  <img src="https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Volatility.png" width="540" alt="volatility">
+<p align="center">
+  <img src="https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Volatility.png" height="300" alt="volatility">
 </p>
 
 ### Лекции

@@ -81,7 +81,7 @@ N|дата|pdf
 1-3|[SEM HW groups 1-3 SE – Задачи](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20HW/SEM%20HW%20groups%201-3%20SE.pdf)<br>[SEM HW groups 1-3 SE – Решения](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20HW/SEM%20HW%2062369.pdf)
 4-5|[SEM HW groups 4-5 SE – Задачи](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20HW/SEM%20HW%20groups%204-5%20SE.pdf)
 
-### Допълнителни
+### Допълнителни задачи
 N|Задача
 :-:|:-
 01|[Crux Mathematicorum VOLUME 42, No. 6, June 2017, page 11 (Geometric Probability)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Crux%20Mathematicorum%20VOLUME%2042%2C%20No.%206%2C%20June%202017%2C%20page%2011%20(Geometric%20Probability).pdf)
@@ -90,3 +90,4 @@ N|Задача
 04|[Fair Die Distribution](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/%D0%A0%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%20%D0%B7%D0%B0%D1%80%D1%87%D0%B5%D1%82%D0%B0%20%D1%81%20%D0%B5%D0%B4%D0%BD%D0%B0%D0%BA%D0%B2%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.pdf)
 05|[2X-3Y](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/2X-3Y.pdf)
 06|[Coprime Natural Numbers Probability](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Coprime%20Natural%20Numbers%20Probability.pdf)
+07|[Deck of Cards Questiong](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Deck%20of%20Cards%20Questions.pdf)

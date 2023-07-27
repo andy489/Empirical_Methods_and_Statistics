@@ -8,21 +8,21 @@
 
 N|date|pdf
 :-:|:-:|:-:
-01|2020-10-01|[SEM Л01](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B01%20(2020-10-01).pdf)
-02|2020-10-08|[SEM Л02](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B02%20(2020-10-08).pdf)
-03|2020-10-15|[SEM Л03](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B03%20(2020-10-15).pdf)
-04|2020-10-22|[SEM Л04](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B04%20(2020-10-22).pdf)
-05|2020-10-29|[SEM Л05](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B05%20(2020-10-29).pdf)
-06|2020-11-05|[SEM Л06](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B06%20(2020-11-05).pdf)
-07|2020-11-12|[SEM Л07](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B07%20(2020-11-12).pdf)
-08|2020-11-19|[SEM Л08](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B08%20(2020-11-19).pdf)
-09|2020-11-26|[SEM Л09](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B09%20(2020-11-26).pdf)
-10|2020-12-03|[SEM Л10](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B10%20(2020-12-03).pdf)
-11|2020-12-10|[SEM Л11](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B11%20(2020-12-10).pdf)
-12|2020-12-17|[SEM Л12](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B12%20(2020-12-17).pdf)
-13|2020-01-07|[SEM Л13](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B13%20(2021-01-07).pdf)
-14|2020-01-14|[SEM Л14](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B14%20(2021-01-14).pdf)
-15|2020-01-21|[SEM Л15](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B15%20(2021-01-21).pdf)
+01|2020-10-01|[SEM L01](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B01%20(2020-10-01).pdf)
+02|2020-10-08|[SEM L02](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B02%20(2020-10-08).pdf)
+03|2020-10-15|[SEM L03](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B03%20(2020-10-15).pdf)
+04|2020-10-22|[SEM L04](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B04%20(2020-10-22).pdf)
+05|2020-10-29|[SEM L05](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B05%20(2020-10-29).pdf)
+06|2020-11-05|[SEM L06](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B06%20(2020-11-05).pdf)
+07|2020-11-12|[SEM L07](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B07%20(2020-11-12).pdf)
+08|2020-11-19|[SEM L08](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B08%20(2020-11-19).pdf)
+09|2020-11-26|[SEM L09](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B09%20(2020-11-26).pdf)
+10|2020-12-03|[SEM L10](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B10%20(2020-12-03).pdf)
+11|2020-12-10|[SEM L11](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B11%20(2020-12-10).pdf)
+12|2020-12-17|[SEM L12](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B12%20(2020-12-17).pdf)
+13|2020-01-07|[SEM L13](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B13%20(2021-01-07).pdf)
+14|2020-01-14|[SEM L14](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B14%20(2021-01-14).pdf)
+15|2020-01-21|[SEM L15](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20Lectures/%D0%A1%D0%95%D0%9C%20%D0%9B15%20(2021-01-21).pdf)
 
 ### Exercises
 N|date|pdf

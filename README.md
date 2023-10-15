@@ -91,3 +91,8 @@ N|Problems
 05|[2X-3Y](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/2X-3Y.pdf)
 06|[Coprime Natural Numbers Probability](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Coprime%20Natural%20Numbers%20Probability.pdf)
 07|[Deck of Cards Questions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Deck%20of%20Cards%20Questions.pdf)
+
+### Interview Tasks
+Game-Math Designer (Red Tiger), Quant Developer (Cayetano), Mathematician (Amusenet, EGT)|Solutions
+:-:|:-
+[Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Interview%20Tasks/Math%20Interview%20Tasks.pdf)|[Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Interview%20Tasks/Math%20Interview%20Solutions.pdf)

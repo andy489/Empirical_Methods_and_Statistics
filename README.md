@@ -60,16 +60,16 @@ N|дата|pdf
 
 date|pdf
 :-:|:-
--|[Exam Preparation – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20Preparation%20%E2%80%93%20Problems.pdf)<br>[Exam Preparation – Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20Preparation%20%E2%80%93%20Solutions.pdf)
-2021-01-27|[SEM Final Exam – Problems and Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20SEM%20solutions%202021-01-27.pdf)
-2021-02-03|[SEM Final Exam – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20ProbStat%202021-02-03%20Problems.pdf)<br>[Sem Final Exam – Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20ProbStat%202021-02-03%20Solutions.pdf)<br>[Detailed Solutions for Selected Exam Problems: 4, 6, 7, 9](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/Exams/Exam%20ProbStat%202021-02-03%20%E2%80%93%20Detailed%20Sols%204%2C6%2C7%2C9.pdf)
+-|[Exam Preparation – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_exam/Exam%20Preparation%20%E2%80%93%20Problems.pdf)<br>[Exam Preparation – Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_exam/Exam%20Preparation%20%E2%80%93%20Solutions.pdf)
+2021-01-27|[SEM Final Exam – Problems and Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_exam/Exam%20SEM%20solutions%202021-01-27.pdf)
+2021-02-03|[SEM Final Exam – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_exam/Exam%20ProbStat%202021-02-03%20Problems.pdf)<br>[Sem Final Exam – Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_exam/Exam%20ProbStat%202021-02-03%20Solutions.pdf)<br>[Detailed Solutions for Selected Exam Problems: 4, 6, 7, 9](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_exam/Exam%20ProbStat%202021-02-03%20%E2%80%93%20Detailed%20Sols%204%2C6%2C7%2C9.pdf)
 
 
 ### Homeworks
 groups|pdf
 :-:|:-
-1-3|[SEM HW groups 1-3 SE – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20HW/SEM%20HW%20groups%201-3%20SE.pdf)<br>[SEM HW groups 1-3 SE – Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20HW/SEM%20HW%2062369.pdf)
-4-5|[SEM HW groups 4-5 SE – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/SEM%20HW/SEM%20HW%20groups%204-5%20SE.pdf)
+1-3|[SEM HW groups 1-3 SE – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_hw/SEM%20HW%20groups%201-3%20SE.pdf)<br>[SEM HW groups 1-3 SE – Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_hw/SEM%20HW%2062369.pdf)
+4-5|[SEM HW groups 4-5 SE – Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_hw/SEM%20HW%20groups%204-5%20SE.pdf)
 
 ### Additional Problems
 N|Problems

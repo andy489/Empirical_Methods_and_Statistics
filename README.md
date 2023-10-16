@@ -88,11 +88,11 @@ N|Problems
 02|[Crux Mathematicorum VOLUME 47, No. 1, January 2021, pages 13-18 (Games, Geometric Probability)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Crux%20Mathematicorum%20VOLUME%2047%2C%20No.%201%2C%20January%202021%2C%20pages%2013-18%20(Games%2C%20Geometric%20Probability).pdf)
 03|[Number of sixes probability (Chebyshev & CLT)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Number%20of%20sixes%20probability%20(Chebyshev%20%26%20CLT).pdf)
 04|[Fair Die Distribution](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Dices%20with%20same%20distribution.pdf)
-05|[2X-3Y](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/2X-3Y.pdf)
+05|[2X-3Y](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/2X-3Y.pdf)
 06|[Coprime Natural Numbers Probability](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Coprime%20Natural%20Numbers%20Probability.pdf)
 07|[Deck of Cards Questions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Deck%20of%20Cards%20Questions.pdf)
 
 ### Interview Tasks
 Game-Math Designer, Quant Developer, Mathematician|Solutions
 :-:|:-
-[Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Interview%20Tasks/Math%20Interview%20Tasks.pdf)|[Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Interview%20Tasks/Math%20Interview%20Solutions.pdf)
+[Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Interview%20Tasks/Math%20Interview%20Tasks.pdf)|[Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Interview%20Tasks/Math%20Interview%20Solutions.pdf)

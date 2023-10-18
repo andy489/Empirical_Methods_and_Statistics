@@ -62,3 +62,15 @@ N|Problems
 Game-Math Designer, Quant Developer, Mathematician|Solutions
 :-:|:-
 [Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Interview%20Tasks/Math%20Interview%20Tasks.pdf)|[Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Interview%20Tasks/Math%20Interview%20Solutions.pdf)
+
+**References**:<br>
+[1] `Empirical Methods and Statistics Lectures @ FMI - Sofia University, Software Engineering, lecturer: Mladen Savov`<br>
+[2] `Probabilities Theory - Exercises, Emil Kamenov, Miroslav Stoenchev`<br>
+[3] `Monika Peteva Petkova's notes on R programming language`<br>
+[4] `Martin Minchev's notes on Probabilities and Statistics`<br>
+[5] `SimpleR - Using R for Introductory Statistics, John Verzani`<br>
+[6] `Crux mathematicorum, Canadian mathematical forum`<br>
+[7] `Probability and Random Processes, Geoffrey R. Grimmett and Davis R. Stirzaker, Third Edition`<br>
+[8] `One Thousand Exercises in probability, Geoffrey R. Grimmett and Davis R. Stirzaker`<br>
+[9] `Dobromir Pavlov Kralchev's notes on Combinatorics and Generating functions`<br>
+[10] `My personal notes, solutions and opiniоnated approaches for problem solving`<br>

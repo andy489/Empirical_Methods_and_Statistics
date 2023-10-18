@@ -4,6 +4,12 @@
   <img src="https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Volatility.png" height="170" width="762" alt="volatility">
 </p>
 
+Тhis repository contains notes on statistics and empirical methods from the Sofia University program.<br>
+It is intended for beginners, who are interested in statistics and wants to develop in this field.
+
+If you have troubles understanding the concepts or you have a suggestion please [**submit an issue**](https://github.com/andy489/Empirical_Methods_and_Statistics/issues/new/choose).<br>
+I'm not committing to an answer, but these issues will be open and someone else may feel free to help.
+
 ### Lectures
 
 N|date|pdf|N|date|pdf|N|date|pdf
@@ -60,7 +66,7 @@ N|Problems
 
 ### Interview Tasks
 Game-Math Designer, Quant Developer, Mathematician|Solutions
-:-:|:-
+:-|:-
 [Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/Math%20Interview%20Tasks.pdf)|[Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/Math%20Interview%20Solutions.pdf)
 
 **References**:<br>

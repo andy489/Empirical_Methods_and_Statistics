@@ -64,7 +64,7 @@ Game-Math Designer, Quant Developer, Mathematician|Solutions
 [Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Interview%20Tasks/Math%20Interview%20Tasks.pdf)|[Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Interview%20Tasks/Math%20Interview%20Solutions.pdf)
 
 **References**:<br>
-[1] `Empirical Methods and Statistics Lectures @ FMI - Sofia University, Software Engineering, lecturer: Mladen Savov`<br>
+[1] `Empirical Methods and Statistics lecture notes @ FMI - Sofia University, Software Engineering, lecturer: Mladen Savov`<br>
 [2] `Probabilities Theory - Exercises, Emil Kamenov, Miroslav Stoenchev`<br>
 [3] `Monika Peteva Petkova's notes on R programming language`<br>
 [4] `Martin Minchev's notes on Probabilities and Statistics`<br>

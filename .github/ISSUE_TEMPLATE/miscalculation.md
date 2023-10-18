@@ -1,9 +1,16 @@
 ---
-name: Изчислителна или логическа грешка
-about: asd1
-title: asd2
-labels: asd3
-assignees: asd4
+name: Calculation or logic error
+about: Please use if you notice a miscalculation or other logical error in the documents
+title: Statistics and Epirical Methods
+labels: repo-help
+assignees: andy489
 ---
 
-asd5
+Описание на проблема:
+...
+
+Предложения за редакция или стъпки за промяна:
+...
+
+Източници, които разглеждат подобен проблем:
+...

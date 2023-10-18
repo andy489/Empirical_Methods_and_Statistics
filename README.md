@@ -61,7 +61,7 @@ N|Problems
 ### Interview Tasks
 Game-Math Designer, Quant Developer, Mathematician|Solutions
 :-:|:-
-[Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Interview%20Tasks/Math%20Interview%20Tasks.pdf)|[Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Interview%20Tasks/Math%20Interview%20Solutions.pdf)
+[Problems](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/Math%20Interview%20Tasks.pdf)|[Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/Math%20Interview%20Solutions.pdf)
 
 **References**:<br>
 [1] `Empirical Methods and Statistics lecture notes @ FMI - Sofia University, Software Engineering, lecturer: Mladen Savov`<br>

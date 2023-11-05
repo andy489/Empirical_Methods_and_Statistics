@@ -63,6 +63,7 @@ N|Problems
 05|[2X-3Y](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/2X-3Y.pdf)
 06|[Coprime Natural Numbers Probability](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Coprime%20Natural%20Numbers%20Probability.pdf)
 07|[Deck of Cards Questions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Deck%20of%20Cards%20Questions.pdf)
+08|[Basic Randomization](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Basic%20Randomization.pdf)
 
 ### Interview Tasks
 Problems|Solutions

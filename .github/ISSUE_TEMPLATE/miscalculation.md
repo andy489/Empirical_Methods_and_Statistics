@@ -1,7 +1,7 @@
 ---
 name: Calculation or logic error
 about: Please use if you notice a miscalculation or other logical error in the documents
-title: Statistics and Epirical Methods
+title: Statistics and Empirical Methods
 labels: repo-help
 assignees: andy489
 ---

@@ -1,7 +1,7 @@
 ---
 name: Broken link
 about: Please use if you notice a broken link, or a link that points to the wrong place
-title: Statistics and Epirical Methods
+title: Statistics and Empirical Methods
 labels: repo-help
 assignees: andy489
 ---

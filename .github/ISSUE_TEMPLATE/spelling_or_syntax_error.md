@@ -1,7 +1,7 @@
 ---
 name: I found an annoying typo
 about: Please use if you notice a syntax error
-title: Statistics and Epirical Methods
+title: Statistics and Empirical Methods
 labels: repo-help
 assignees: andy489
 ---

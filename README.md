@@ -64,7 +64,7 @@ N|Problems
 06|[Coprime Natural Numbers Probability](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Coprime%20Natural%20Numbers%20Probability.pdf)
 07|[Deck of Cards Questions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Deck%20of%20Cards%20Questions.pdf)
 08|[Basic Randomization](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Basic%20Randomization.pdf)
-09|[x/y closer to even probability](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/B3%2054th%20Putnam%201993.pdf)
+09|[x/y closer to even integer probability](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/B3%2054th%20Putnam%201993.pdf)
 ### Interview Tasks
 Problems|Solutions
 :-|:-

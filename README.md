@@ -81,4 +81,5 @@ Problems|Solutions
 [8] `One Thousand Exercises in probability, Geoffrey R. Grimmett and Davis R. Stirzaker`<br>
 [9] `Dobromir Pavlov Kralchev's notes on Combinatorics and Generating functions`<br>
 [10] `William Lowell Putnam Mathematical Competition`<br>
-[11] `My personal notes, solutions and opiniоnated approaches for problem solving`<br>
+[11] `102 Combinatorial Problems, Book by Titu Andreescu and Zuming Feng`
+[12] `My personal notes, solutions and opiniоnated approaches for problem solving`<br>

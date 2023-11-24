@@ -80,4 +80,5 @@ Problems|Solutions
 [7] `Probability and Random Processes, Geoffrey R. Grimmett and Davis R. Stirzaker, Third Edition`<br>
 [8] `One Thousand Exercises in probability, Geoffrey R. Grimmett and Davis R. Stirzaker`<br>
 [9] `Dobromir Pavlov Kralchev's notes on Combinatorics and Generating functions`<br>
-[10] `My personal notes, solutions and opiniоnated approaches for problem solving`<br>
+[10] `William Lowell Putnam Mathematical Competition`<br>
+[11] `My personal notes, solutions and opiniоnated approaches for problem solving`<br>

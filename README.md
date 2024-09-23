@@ -66,6 +66,12 @@ N|Problems
 08|[Basic Randomization](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Basic%20Randomization.pdf)
 09|[x/y closer to even integer probability](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/B3%2054th%20Putnam%201993.pdf)
 10|[Dice process](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/Dice%20process.pdf)
+
+### Additional Material
+N|Links
+:-:|:-
+01|[Berry-Essen Bounds (Analysing the speed of convergence of CLT)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_lec/Berry_Esseen_Bounds.pdf)
+
 ### Interview Tasks
 Problems|Solutions
 :-|:-

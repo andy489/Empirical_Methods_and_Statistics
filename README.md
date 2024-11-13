@@ -70,7 +70,9 @@ N|Problems
 ### Additional Material
 N|Links
 :-:|:-
-01|[Berry-Essen Bounds (Analysing the speed of convergence of CLT)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_lec/Berry_Esseen_Bounds.pdf)
+01|[Central Limit Theorem](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_lec/CLT.pdf)
+02|[Berry-Essen Bounds (Analysing the speed of convergence of CLT)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_lec/Berry_Esseen_Bounds.pdf)
+03|[Radon Nikodym](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_lec/Radon_Nikodym.pdf)
 
 ### Interview Tasks
 Problems|Solutions

@@ -79,8 +79,8 @@ N|Links
 Problems|Solutions
 :-|:-
 [Interview Problems (Game-Math Designer, Quant Developer, Mathematician)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/Math%20Interview%20Tasks.pdf)|[Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/Math%20Interview%20Solutions.pdf)
-[Interview Problems (iGaming)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/line_calc.pdf)|[Program](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/line_calc.py)
-
+[Line Calc (iGaming)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/line_calc.pdf)|[Program](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/line_calc.py)
+[Expected Bonus Win (iGaming)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/expected_bonus_win.pdf)|-
 **References**:<br>
 - [1] `Empirical Methods and Statistics lecture notes @ FMI - Sofia University, Software Engineering, lecturer: Mladen Savov`<br>
 - [2] `Probabilities Theory - Exercises, Emil Kamenov, Miroslav Stoenchev`<br>

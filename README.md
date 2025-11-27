@@ -81,6 +81,7 @@ Problems|Solutions
 [Interview Problems (Game-Math Designer, Quant Developer, Mathematician)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/Math%20Interview%20Tasks.pdf)|[Solutions](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/Math%20Interview%20Solutions.pdf)
 [Line Calc (iGaming)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/line_calc.pdf)|[Program](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/line_calc.py)
 [Expected Bonus Win (iGaming)](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/expected_bonus_win.pdf)|-
+[Musicians & Concerts Problem](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/musicians_cencerts_prob.pdf)|[Musicians & Concerts Solution](https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_additional/_inter/musicians_cencerts_sol.pdf)
 
 **References**:<br>
 - [1] `Empirical Methods and Statistics lecture notes @ FMI - Sofia University, Software Engineering, lecturer: Mladen Savov`<br>

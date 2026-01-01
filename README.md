@@ -95,4 +95,4 @@ Problems|Solutions
 - [9] `Dobromir Pavlov Kralchev's notes on Combinatorics and Generating functions`<br>
 - [10] `William Lowell Putnam Mathematical Competition`<br>
 - [11] `102 Combinatorial Problems, Book by Titu Andreescu and Zuming Feng`<br>
-- [12] `My personal notes, solutions and opiniоnated approaches for problem solving`<br>
+- [12] `Personal notes, solutions and opiniоnated approaches for problem solving`<br>
